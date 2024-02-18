@@ -1,0 +1,148 @@
+@media only screen and (max-width: 768px) {
+    .main_director_img{
+        width:100%;
+    }
+    .director_content{
+       width:100%;
+        padding:20px 0px;
+    }
+    .ntseLeftMain{
+        display:inline-block
+    }
+    .ntseLeftMainleft{
+       width:100%; 
+        box-sizing: border-box;
+    }
+    .rightNtse{
+        width:100%;
+    }
+    .nav-rgt{
+        display:none;
+        position: absolute;
+        width: 100%;
+        top:55px;
+        background: black;
+        left:0;
+    }
+    .nav-rgt ul li div.dropdownul.new{
+            position: initial;
+            color: #fff;
+            width: 100%;
+            height: auto;
+            float: left;
+    }
+    .stydyMaterial{
+        padding:25px 0px 0px;
+    }
+    .studyPart h2{
+    font-size: 25px;
+    line-height: 31px;
+    }
+    .subscribes{
+        position: absolute;
+    right: 32px;
+    }
+    .banner-header{
+        margin-top:55px;
+    }
+    .right-img img{
+        max-width:100%;
+    }
+    .banner-main{
+       display:inline-block;
+    }
+    .banner-left-content{
+        width:100%;
+    }
+    .accordianOuter{
+        display:inline-block;
+        width:100%;
+        margin:0px 0px 10px;
+    }
+    .accordianOuter h4{
+        margin:0px;
+    }
+    .outer-test-mock{
+        display:inline-block;
+    }
+    .mock-content{
+        width:100%;
+    }
+     .header-outer .container {
+        display: block;
+        position: absolute;
+        right:14px;
+        top:10px;
+    }
+    .nav-rgt ul li{
+        padding:14px;
+        width:100%;
+        box-sizing: border-box;
+    }
+    .nav-rgt ul li.login-btn{
+        padding:10px;
+    }
+    .nav-rgt ul li div.dropdownul{
+        position:inherit;
+        margin-top:20px;
+    }
+    .innerSectionContent{
+        width:100%;
+        display:inline-block;
+    }
+    .leftSectData{
+        width:100%;
+        margin: 0 0px 16px;
+    }
+    .outer-dounload-tab .tab{
+        margin:24px 0px 22px;
+        text-align: center;
+    }
+    .outer-dounload-tab .tab button{
+        width:100%;
+        box-sizing: border-box;
+        margin: 0;
+        margin: 0 auto;
+        max-width: initial;
+   }
+    .outer-subscribes{
+        display:inline-block;
+    }
+    .packgeData{
+        margin:0px 0px 15px;
+        width:100%;
+    }
+    .left-part-about{
+        width:100%;
+    }
+    .lft-pro-ul-data{
+        width:100%;
+    }
+    .logo-data img{
+        max-width:150px;
+    }
+    .banner{
+        margin-top: 55px;
+    }
+    .left-study-material{
+       display:none; 
+    }
+    .inner-part-popup{
+        width:90%;
+    }
+    .login-outer-main-stdy{
+        width:100%;
+    }
+    .leftArrow img{
+        display:none;
+    }
+    .leftArrow h1{
+            margin: 0px 0px 20px;
+    }
+    .subscribe{
+        margin:31px 0px 60px;
+    }
+    .accordianOuter{
+        min-width:auto;
+    }
+}

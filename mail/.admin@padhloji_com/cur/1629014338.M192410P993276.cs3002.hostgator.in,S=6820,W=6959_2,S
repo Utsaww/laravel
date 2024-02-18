@@ -1,0 +1,139 @@
+Return-Path: <no_reply_support@trust-provider.com>
+Delivered-To: admin@padhloji.com
+Received: from cs3002.hostgator.in
+	by cs3002.hostgator.in with LMTP
+	id rB1aC0LJGGH8Jw8ALS45uQ
+	(envelope-from <no_reply_support@trust-provider.com>)
+	for <admin@padhloji.com>; Sun, 15 Aug 2021 07:58:58 +0000
+Return-path: <no_reply_support@trust-provider.com>
+Envelope-to: admin@padhloji.com
+Delivery-date: Sun, 15 Aug 2021 07:58:58 +0000
+Received: from opsmail.dc.sectigo.com ([91.212.12.133]:37249 helo=ssmail3.sec.dc.comodoca.net)
+	by cs3002.hostgator.in with esmtps  (TLS1.2) tls TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+	(Exim 4.94.2)
+	(envelope-from <no_reply_support@trust-provider.com>)
+	id 1mFB2h-004A7I-9t
+	for admin@padhloji.com; Sun, 15 Aug 2021 07:58:58 +0000
+Received: (qmail 30249 invoked by uid 1027); 15 Aug 2021 07:58:35 -0000
+Authentication-Results: ssmail3.sec.dc.comodoca.net; auth=none
+Received: from scdpcasasp1.sec.dc.comodoca.net (HELO saspmail.dc.comodoca.net) (10.49.128.81)
+ by ssmail3.sec.dc.comodoca.net (qpsmtpd/0.96) with SMTP ; Sun, 15 Aug 2021 07:58:35 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed; d=trust-provider.com; h=subject:from:to:date:mime-version:content-type; s=smail; bh=arOqAoF3LA+mIyKTUazsHhT9djZh+VKQ8CU1/RzxCF0=; b=McWeTuGWymq5JokQAnMjLbKNOUkaVGVMs5tyjqzxL3G9knvBlRrS9WEIQ98k7+iZP2r5tnAJp9iWYXLvKqU8Uq3sQU3uU4AgY7G8dP3ei2tHMM7O3UP16aYpecTx/M1eRCiRya3UPu9TAeot4pCPaKAimRE3UOsYZYToFKT1MTI=
+Subject: ORDER #537542190 - Domain Control Validation for padhloji.com  (reference #20542)
+From: "Sectigo Certification Authority" <noreply_support@trust-provider.com>
+To: "admin@padhloji.com" <admin@padhloji.com>
+Date: Sun, 15 Aug 2021 07:58:25 +0000
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="(udzx4af1ncwdnpvb)"
+X-Spam-Status: No, score=-1.2
+X-Spam-Score: -11
+X-Spam-Bar: -
+X-Spam-Flag: NO
+
+--(udzx4af1ncwdnpvb)
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Dear admin@padhloji.com,
+
+We have received the request to issue an SSL certificate for:
+Domain: padhloji.com
+Subject: 
+             padhloji.com
+
+This order was placed by a person whose email address is admin@padhloji.com
+
+To complete the domain control validation for this certificate, please click here
+https://secure.trust-provider.com/products/EnterDCVCode?orderNumber=537542190
+and enter the following "validation code" (please make sure the reference number mentioned in this email subject matches the one you will see when entering the validation code):
+
+        npIp02cK3RkdHw6iZqXwxdygZS2*lLB6
+
+
+
+**************PLEASE NOTE CHOOSING THE OPTION BELOW WILL REJECT THE CERTIFICATE**************
+If neither you nor a trusted colleague made this request for a certificate then
+you can reject it by browsing to:
+
+https://secure.trust-provider.com/products/RejectDCVCode?orderNumber=537542190&dcvCode=npIp02cK3RkdHw6iZqXwxdygZS2*lLB6
+
+
+
+	Thank you for being a valued Sectigo customer.
+
+                            visit our website:   http://www.sectigo.com/
+                               get support:   https://support.sectigo.com/
+             Copyright © Sectigo Limited, All rights reserved.
+
+	
+
+--(udzx4af1ncwdnpvb)
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+<html>
+<head>
+  <style type=text/css>
+  <!--
+    body { font-family: Arial, Helvetica, sans-serif; font-size: 10pt }
+    p { font-family: Arial, Helvetica, sans-serif; font-size: 10pt }
+    pre { font-family: Arial, Helvetica, sans-serif; font-size: 10pt }
+    pre.validate { font-family: Arial, Helvetica, sans-serif; font-size:11pt; color:#007A00; font-weight: bold;}
+    pre.reject { font-family: Arial, Helvetica, sans-serif; font-size:7pt; color:#FF0000; font-weight: bold;}
+    td { font-family: Arial, Helvetica, sans-serif; font-size: 10pt }
+    .p8 { font-family: Arial, Helvetica, sans-serif; font-size: 8pt; font-weight: normal }
+    .p4 { font-family: Arial, Helvetica, sans-serif; font-size: 10pt; color: #006699; font-weight: bold }
+    A:link    { font-family: Arial; color: #000066; font-weight: bold; text-decoration: underline }
+    A:visited { font-family: Arial; color: #000066; font-weight: bold; text-decoration: underline }
+    A:active  { font-family: Arial; color: #000066; font-weight: bold; text-decoration: underline }
+    A:hover   { font-family: Arial; color: #003399; font-weight: bold; text-decoration: underline }
+    .title { font-family: Arial, Helvetica, sans-serif; font-size: 11pt; font-weight: bold; color: #003399 }
+    -->
+  </style>
+</head>
+<body bgcolor=#CCCCCC text=#000000 leftmargin=4 topmargin=5>
+<table width=780 border=0 cellspacing=0 cellpadding=1 align=left>
+  <tr><td align=left><img border="0" src="http://secure.trust-provider.com/images/banners/logo_comodo.png"></td></tr>
+  <tr>
+    <td bgcolor=#000000>
+      <table width=780 border=0 cellspacing=0 cellpadding=3 align=left>
+        <tr>
+          <td bgcolor=#FFFFFF>
+            <br><font size=2 class=title>Domain Control Validation for:padhloji.com</font>
+          </td>
+        </tr>
+        <tr>
+          <td bgcolor=#FFFFFF colspan=2>
+            <p><br>Dear admin@padhloji.com,</p>
+            <pre>
+We have received the request to issue an SSL certificate for:
+Domain(s): padhloji.com
+Subject: 
+             padhloji.com
+<br>This order was placed by a person whose email address is admin@padhloji.com</pre>
+            <pre class="validate">
+<b>To complete the domain control validation for this certificate, please click <a href="https://secure.trust-provider.com/products/EnterDCVCode?orderNumber=537542190"><font color=#007A00>here</font></a>
+and enter the following "validation code" (please make sure the reference number mentioned in this email subject matches the one you will see when entering the validation code):</b></pre>
+            <pre class="validate" style="text-align:center;"><b>npIp02cK3RkdHw6iZqXwxdygZS2*lLB6</b></pre>
+            <pre class="reject"><br><br><br><br>
+**************PLEASE NOTE CHOOSING THE OPTION BELOW WILL REJECT THE CERTIFICATE**************
+            If neither you nor a trusted colleague made this request for
+            a certificate then you can reject it by browsing to <a href="https://secure.trust-provider.com/products/RejectDCVCode?orderNumber=537542190&dcvCode=npIp02cK3RkdHw6iZqXwxdygZS2*lLB6"><font color=#FF0000>Reject</font></a></pre>
+
+	<p>Thank you for being a valued Sectigo customer.</p>
+<p align=center><a target="_blak"  style="color:#1c94c4" href="http://www.sectigo.com/">visit our website</a></p>
+<p align=center><a target="_blak"  style="color:#1c94c4" href="https://support.sectigo.com/">get support</a></p>
+<p align=center>Copyright &#9400; Sectigo Limited, All rights reserved.</p>
+
+	
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</body>
+</html>
+
+--(udzx4af1ncwdnpvb)--
+
